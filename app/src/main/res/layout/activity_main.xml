@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-
-
-<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/GridLayout1"
@@ -19,12 +16,315 @@
         android:layout_height="130dp"
         app:cardCornerRadius="5dp"
         app:cardElevation="10dp"
-        app:cardBackgroundColor="@android:color/white"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
         app:contentPaddingLeft="10dp"
         app:cardMaxElevation="15dp"
-/>
+>
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_brush_black_24dp"
+
+    />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+</android.support.v7.widget.CardView>
 
 
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="10dp"
+        android:background="@drawable/ic_brush_black_24dp"
+        app:cardBackgroundColor="@android:color/holo_purple"
+        app:contentPaddingLeft="10dp"
+        app:cardMaxElevation="15dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_brush_black_24dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Brush"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+
+
+    <!--
     <android.support.v7.widget.CardView
         android:layout_width="130dp"
         android:layout_height="130dp"
@@ -155,7 +455,7 @@
         app:cardCornerRadius="5dp"
         app:cardElevation="10dp"
         android:paddingLeft="140dp"
-        app:cardBackgroundColor="@android:color/black"
+        app:cardBackgroundColor="@android:color/white"
         android:paddingRight="30dp"
         app:contentPaddingLeft="10dp"
         app:cardMaxElevation="15dp"
@@ -175,5 +475,5 @@
         app:contentPaddingLeft="10dp"
         app:cardMaxElevation="15dp"
         />
-
+-->
 </GridLayout>
